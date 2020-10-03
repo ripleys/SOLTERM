@@ -1,0 +1,3 @@
+var OP = ""
+
+print("SOLTERM")
